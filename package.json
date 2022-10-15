@@ -11,6 +11,6 @@
   },
   "homepage": "https://github.com/18F/identity-dev-docs#readme",
   "dependencies": {
-    "identity-style-guide": "^3.0.0"
+    "identity-style-guide": "^6.5.0"
   }
 }
