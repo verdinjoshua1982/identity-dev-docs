@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/18F/identity-dev-docs#readme",
   "dependencies": {
-    "@18f/identity-build-sass": "^1.1.0",
+    "@18f/identity-build-sass": "^1.2.0",
     "@18f/identity-design-system": "^7.0.1"
   }
 }
