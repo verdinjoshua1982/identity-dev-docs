@@ -16,7 +16,7 @@ group :test do
   gem 'capybara'
   gem 'html-proofer', '~> 4.0'
   gem 'nokogiri', '>= 1.10.5'
-  gem 'rackup' # required for `Capybara.server = :webrick`
+  gem 'rackup' , '>= 2.0.0' # required for `Capybara.server = :webrick`
   gem 'rack-jekyll'
   gem 'rspec'
   gem 'rspec_junit_formatter', require: false
