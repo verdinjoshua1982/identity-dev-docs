@@ -14,8 +14,8 @@ end
 
 group :test do
   gem 'capybara'
-  gem 'html-proofer', '~> 4.0'
-  gem 'nokogiri', '>= 1.10.5'
+  gem 'html-proofer', '~> 5.0', '>= 5.0.0'
+  gem 'nokogiri', '>= 1.18.9'
   gem 'rackup' # required for `Capybara.server = :webrick`
   gem 'rack-jekyll'
   gem 'rspec'
