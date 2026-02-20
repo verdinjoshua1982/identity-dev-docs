@@ -169,7 +169,13 @@ You can wait 15-30 minutes for our system to retry automatically, or contact the
 
 **Changes to production configurations are not automatic and may take up to two weeks.**
 
-If you need to make any changes to your deployed integration, please update your production integration configuration in the sandbox and test the changes you wish to deploy. After you have confirmed the change, **you must submit a change request** through the [Partner Support Help Desk](https://zendesk.login.gov) to ensure the change takes effect in production.
+If you need to make any changes to your deployed integration, here are the recommended steps:
+1. Make those changes in your **sandbox** configuration in the [Partner Portal](https://portal.int.identitysandbox.gov/), and test the changes.
+2. Once you've verified the changes are working as expected in the sandbox, make those changes in your production configuration in the Partner Portal.
+3. At the top of your production configuration in the Partner Portal, click on the "Submit a request" button.
+4. Select "Update my existing production integration" from the "How can we help you today?" dropdown. Here is a [direct link to the Zendesk form](https://zendesk.login.gov/hc/en-us/requests/new?ticket_form_id=5664085973908).
+5. Fill out the rest of the fields with details about the changes you made and submit the ticket.
+6. Wait for us to confirm that your changes have been deployed to our production environment. This can take up to two weeks.
 
 ### Certificate Rotation Process
 
