@@ -5,6 +5,17 @@ title: Release Notes
 
 <dl class="usa-accordion usa-accordion--bordered">
 
+{% include accordion.html id="track-2026-08-12"
+                          accordion_id="user-key-2026-08-12"
+                          title="2026-08-12"
+                          content="
+### User-Facing Improvements
+* Added Fraud tab for Partner Admins
+
+### Bug Fixes
+* Logingov Readonly users now have access to all reports"
+%}
+
 {% include accordion.html id="track-2026-08-05"
                           accordion_id="user-key-2026-08-05"
                           title="2026-08-05"
