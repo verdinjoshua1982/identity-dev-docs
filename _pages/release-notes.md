@@ -5,6 +5,18 @@ title: Release Notes
 
 <dl class="usa-accordion usa-accordion--bordered">
 
+{% include accordion.html id="track-2026-08-20"
+                          accordion_id="user-key-2026-08-20"
+                          title="2026-08-20"
+                          content="
+### User-Facing Improvements
+* Adds icon after all external links so users know the link will take them away from the Partner Portal.
+* Added Fraud tab for Partner Admins
+
+### Bug Fixes
+* Update working around authentication summary stats"
+%}
+
 {% include accordion.html id="track-2026-08-12"
                           accordion_id="user-key-2026-08-12"
                           title="2026-08-12"
