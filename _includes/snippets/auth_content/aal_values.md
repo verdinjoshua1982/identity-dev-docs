@@ -6,7 +6,7 @@
 Stricter behavior can be specified by adding one of:
 
   - **`http://idmanagement.gov/ns/assurance/aal/2`**
-      This is the same as the default behavior except users must authenticate with a separate second factor (i.e. not a remembered device).
+      This is the same as the default behavior except users must authenticate with a separate second factor (i.e. not a remembered device). Note that we enforce this AAL2 behavior as a minimum for any configuration that uses our identity verification service.
   - **`http://idmanagement.gov/ns/assurance/aal/2?phishing_resistant=true`**
       This specifies that a user has been authenticated with a cryptographically secure method. We currently support security keys, face or touch unlock, and PIV/CAC. Users must _always_ authenticate with a second factor.
   - **`http://idmanagement.gov/ns/assurance/aal/2?hspd12=true`**
