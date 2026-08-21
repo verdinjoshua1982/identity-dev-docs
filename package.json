@@ -25,14 +25,14 @@
   },
   "devDependencies": {
     "@18f/eslint-plugin-identity": "^2.0.0",
-    "@axe-core/puppeteer": "^4.10.0",
+    "@axe-core/puppeteer": "^4.13.0",
     "eslint": "^8.52.0",
     "eslint-plugin-import": "^2.29.0",
     "eslint-plugin-prettier": "^5.0.1",
     "fast-glob": "^3.3.2",
     "get-port": "^7.1.0",
     "prettier": "3.0.3",
-    "puppeteer": "^24.16.2",
+    "puppeteer": "^25.8.0",
     "serve-handler": "^6.1.5"
   }
 }
