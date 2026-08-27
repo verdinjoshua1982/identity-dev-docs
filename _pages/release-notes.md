@@ -5,6 +5,15 @@ title: Release Notes
 
 <dl class="usa-accordion usa-accordion--bordered">
 
+{% include accordion.html id="track-2026-08-27"
+                          accordion_id="user-key-2026-08-27"
+                          title="2026-08-27"
+                          content="
+### Bug Fixes
+* Fix em-dash overlap on Safari browsers
+* Update working around authentication summary stats"
+%}
+
 {% include accordion.html id="track-2026-08-20"
                           accordion_id="user-key-2026-08-20"
                           title="2026-08-20"
