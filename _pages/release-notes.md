@@ -9,9 +9,6 @@ title: Release Notes
                           accordion_id="user-key-2026-08-27"
                           title="2026-08-27"
                           content="
-### User-Facing Improvements
-* Add Identity Verification tab
-
 ### Bug Fixes
 * Fix em-dash overlap on Safari browsers
 * Update working around authentication summary stats"
