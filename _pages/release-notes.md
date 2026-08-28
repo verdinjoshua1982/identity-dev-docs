@@ -1,7 +1,8 @@
 ---
 title: Release Notes
 ---
-## Login.gov Partner Portal Release Notes
+<div class="usa-intro"> Login.gov Partner Portal Release Notes</div>
+<p>Below you can find notes regarding features added and bugs addressed in the portal. Click the plus icon to view the notes for a specific release. Releases are ordered with most the recent at the top.<p>
 
 <dl class="usa-accordion usa-accordion--bordered">
 
