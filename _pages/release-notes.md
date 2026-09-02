@@ -6,6 +6,14 @@ title: Partner Portal Release Notes
 
 <dl class="usa-accordion usa-accordion--bordered">
 
+{% include accordion.html id="track-2026-09-02"
+                          accordion_id="user-key-2026-09-02"
+                          title="2026-09-02"
+                          content="
+### User-Facing Improvements
+* Give all roles access to the Authentication and Identity Verification report tabs"
+%}
+
 {% include accordion.html id="track-2026-08-27"
                           accordion_id="user-key-2026-08-27"
                           title="2026-08-27"
